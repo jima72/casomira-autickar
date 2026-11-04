@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.0",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-1.6.0.zip",
-    "sha256":  "8dc3b3611040ce34d4bc0fa4bbe7f0c1fca4f756bf54f8e9651df0e100ad3d6b",
-    "notes":  "Editor se instaluje do slozky OR CZ-SK (vedle RunActivity.exe) a pouziva knihovny hry. Balicek obsahuje jen soubory editoru."
+    "version":  "1.6.1",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-1.6.1.zip",
+    "sha256":  "84e737cdd118ff61783c9191c92fdfea0cf9fdb8b5b518cb534a32b758e31c04",
+    "notes":  "Oprava: pretazeni konce cesty za bodem obratu uz nepreskoci na nejblizsi zelenou a nezrusi obrat."
 }
