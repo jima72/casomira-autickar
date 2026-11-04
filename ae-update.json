@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.2",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-1.6.2.zip",
-    "sha256":  "8f963f015abd866938928f433fad01fef6640c5c65b9e9acf253dbfc8a22b2eb",
-    "notes":  "Oprava: umisteni konce cesty za bodem obratu uz obrat nezahodi (cesta se nenarovna)."
+    "version":  "1.6.3",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-1.6.3.zip",
+    "sha256":  "d9e6e979384c57212a52ab8ea663665c9b4ba5b02a34124da8f57487b2b98e85",
+    "notes":  "Oprava: konec cesty jde dotahnout az na zarazedlo (slepy konec koleje)."
 }
