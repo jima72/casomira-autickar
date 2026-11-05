@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.4",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-1.6.4.zip",
-    "sha256":  "c2c1ba4dfee7fa2d0536838a22a890a4b2b4cf188576098f46fe1fe8e573a387",
-    "notes":  "Popisky nastupist a koleji: nazev uprostred, cara vzdy kolmo ke koleji na volnejsi stranu, mirny naklon aby se nekryly. Dynamicke umistovani vsech labelu (neprekryvaji se). Opravy editace cesty: konec za obratem, zarazedlo, prehozeni vyhybky u konce."
+    "version":  "1.6.5",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-1.6.5.zip",
+    "sha256":  "54d6dbf365abaf23d7f9f640bcabd6711dd1a246213b29748f206fc7d89e81ae",
+    "notes":  "Popisky na mape se pri posunu mapy uz nehybou. Predvesti v klidu sviti podle dalsiho navestidla (zluta vystraha). Mimo upravu cesty je cesta cela zelena, barevne zustavaji jen sipky smeru; usek pojety tam i zpet se kresli jen jednou."
 }
