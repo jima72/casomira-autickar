@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.3",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-1.6.3.zip",
-    "sha256":  "d9e6e979384c57212a52ab8ea663665c9b4ba5b02a34124da8f57487b2b98e85",
-    "notes":  "Oprava: konec cesty jde dotahnout az na zarazedlo (slepy konec koleje)."
+    "version":  "1.6.4",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-1.6.4.zip",
+    "sha256":  "c2c1ba4dfee7fa2d0536838a22a890a4b2b4cf188576098f46fe1fe8e573a387",
+    "notes":  "Popisky nastupist a koleji: nazev uprostred, cara vzdy kolmo ke koleji na volnejsi stranu, mirny naklon aby se nekryly. Dynamicke umistovani vsech labelu (neprekryvaji se). Opravy editace cesty: konec za obratem, zarazedlo, prehozeni vyhybky u konce."
 }
