@@ -1,6 +1,6 @@
 {
-    "version":  "0.7.1",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.7.1.zip",
-    "sha256":  "0e1c3182601f4eee8bdf5ff3a84749ec6ad300a68faf0767adb292a9e559e15a",
-    "notes":  "Pokracovat, kde jsem skoncil: editor si u aktivity pamatuje mapu, vrstvy, cas prehravani, vybery a otevrena okna. Ramecek se soupravou i v okne PC dopravy (s otocenymi vozy) a radek odkud-kam. GLOBAL nad mapou zelene/cervene, pri nemoznosti postavit cestu napoveda k GLOBALu. Cislo verze vpravo dole."
+    "version":  "0.7.2",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.7.2.zip",
+    "sha256":  "3314c8a8ee8bfe0c30b97978d7fcc21c476d57a7ca5abb299e10a3dc235b149a",
+    "notes":  "Ceske preklady novych textu (Pokracovat, kde jsem skoncil; nacitani vozu; napoveda ke GLOBALu)."
 }
