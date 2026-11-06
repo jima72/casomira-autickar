@@ -1,6 +1,6 @@
 {
-    "version":  "0.7.2",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.7.2.zip",
-    "sha256":  "3314c8a8ee8bfe0c30b97978d7fcc21c476d57a7ca5abb299e10a3dc235b149a",
-    "notes":  "Ceske preklady novych textu (Pokracovat, kde jsem skoncil; nacitani vozu; napoveda ke GLOBALu)."
+    "version":  "0.7.3",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.7.3.zip",
+    "sha256":  "4e82a64008c44be4bb5ec4a807859611495d88e94e9e6bdd479bc66fa31d9c5d",
+    "notes":  "Konec cesty jde polozit kamkoli na cestu (i pred mezilehle body, cesta se zkrati). U koleji lezicich pres sebe editor vybere tu, na kterou se da dojet. GLOBAL nad mapou sedy s procentem, kdyz nenavazuje jen par spoju. Vyvojova kopie se sama neaktualizuje."
 }
