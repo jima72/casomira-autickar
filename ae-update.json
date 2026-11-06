@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.6",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-1.6.6.zip",
-    "sha256":  "e253889ee219eaed64a3842cb0114f1e8160ba7a025bfb118fd20ec71f074c6e",
-    "notes":  "Updater nabidne vzdy verzi z repozitare (i nizsi). Mimo upravu cesty je cesta zelena, pri uprave cesty AI se skryje vlak hrace. Okno servisu: cesty podle zobrazeneho nazvu, ramecek s obrazky vozu soupravy. Vlozeny vlak do provozu startuje v case zacatku aktivity."
+    "version":  "0.7.0",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.7.0.zip",
+    "sha256":  "c6d930f1acdff3cb78f2e7626dcc677a0a97ccfe3d28384981765102d3b0b52d",
+    "notes":  "Pracovni neoficialni verze. Male cislo verze vpravo dole ve stavovem radku editoru."
 }
