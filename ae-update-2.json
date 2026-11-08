@@ -1,6 +1,6 @@
 {
-    "version":  "0.8.7",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.8.7.zip",
-    "sha256":  "34b94223eaf89774ac8c89e06a3e9920b9fe6c892c640a8383f5c90eb94e9d52",
-    "notes":  "1. Číslo verze vpravo dole\r\n   - Má zase původní velikost a šedou barvu, je jen tučné (0.8.6 ho měla moc velké).\r\n   Jak testovat:\r\n   - Otevři aktivitu a podívej se do pravého dolního rohu."
+    "version":  "0.8.8",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.8.8.zip",
+    "sha256":  "9acc0390240ff37041ab515f7f3a44e3e806f22aedddfb7eb7951458b104d809",
+    "notes":  "1. Posunovač ve výsledcích události (Open Rails CZ-SK)\r\n   - Přidat výsledek nabízí: Mluvený posunovač: zapnout/vypnout, Automatické propojení hadic a kohoutů: zapnout/vypnout, Úplná zkouška brzdy (ÚZB), Jednoduchá zkouška brzdy (JZB).\r\n   - Posunovač i hadice jsou ve hře přepínač: jedna událost zapne, další vypne. Každý povel může být v události jen jednou.\r\n   Jak testovat:\r\n   - Do časové události přidej Mluvený posunovač a ÚZB, ulož a spusť aktivitu ve hře. V čase události se musí posunovač zapnout a začít ÚZB.\r\n\r\n2. Místní událost může spustit AI vlak\r\n   - Řádek Spouští ji: vlak hráče nebo AI vlak aktivity (ORTSTriggeringTrain).\r\n   Jak testovat:\r\n   - Vyber AI vlak, ulož a znovu otevři událost. Vybraný vlak tam musí zůstat.\r\n\r\n3. Úloha, která může přijít znovu\r\n   - Zaškrtávátko Úloha může přijít znovu (Reversible_Event): když přestane být splněná, hra ji hlídá dál.\r\n\r\n4. Houkání AI vlaků na přejezdech\r\n   - V Podmínkách a ohroženích: Ne, jedno zahoukání nebo vzor USA (ORTSAIHornAtCrossings)."
 }
