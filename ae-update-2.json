@@ -1,6 +1,6 @@
 {
-    "version":  "0.8.6",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.8.6.zip",
-    "sha256":  "93bf96b6313d25e653e3a4dd5def31ee5500de9fe0f4134665a208bb00c7c9c7",
-    "notes":  "1. Větší číslo verze\r\n   - Číslo verze vpravo dole je větší, tučné a v barvě zvýraznění, aby šlo přečíst i ze snímku obrazovky.\r\n   Jak testovat:\r\n   - Otevři aktivitu a podívej se do pravého dolního rohu."
+    "version":  "0.8.7",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.8.7.zip",
+    "sha256":  "34b94223eaf89774ac8c89e06a3e9920b9fe6c892c640a8383f5c90eb94e9d52",
+    "notes":  "1. Číslo verze vpravo dole\r\n   - Má zase původní velikost a šedou barvu, je jen tučné (0.8.6 ho měla moc velké).\r\n   Jak testovat:\r\n   - Otevři aktivitu a podívej se do pravého dolního rohu."
 }
