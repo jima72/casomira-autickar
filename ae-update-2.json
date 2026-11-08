@@ -1,6 +1,6 @@
 {
-    "version":  "0.8.5",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.8.5.zip",
-    "sha256":  "ba8dec9e3c8aa0b35adbb373ebdd6f781599084ea041009c9fbf0413338ff97d",
-    "notes":  "1. Editor souprav: kabina a technické údaje\r\n   - Vpravo dole pod náhledem vozidla je náhled kabiny (přední 2D kabina, jak ji vidí hráč).\r\n   - Pod ním velikost hlavní textury a u lokomotiv, jestli mají ARR, Mirel a rozšířenou fyziku (ExtendedPhysics.xml).\r\n   - Bublina nad náhledem a nad údaji ukáže cestu k souboru.\r\n   Jak testovat:\r\n   - Otevři Editor souprav a vyber lokomotivu. Vpravo dole musí být kabina a údaje, u vozu jen velikost textury.\r\n\r\n2. Vrstva Jízdní trasy kreslí jen projetou část koleje\r\n   - Dřív kreslila každý úsek trasy celý až k další výhybce, takže čára vedla i za otočný bod nebo konec trasy.\r\n   - Teď je stejná jako trasa hráče. Seznam tras se při prvním otevření tratě jednou znovu načte.\r\n   Jak testovat:\r\n   - Zapni čip Jízdní trasy u trasy s otočným bodem uprostřed úseku. Čára musí končit na otočném bodu."
+    "version":  "0.8.6",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.8.6.zip",
+    "sha256":  "93bf96b6313d25e653e3a4dd5def31ee5500de9fe0f4134665a208bb00c7c9c7",
+    "notes":  "1. Větší číslo verze\r\n   - Číslo verze vpravo dole je větší, tučné a v barvě zvýraznění, aby šlo přečíst i ze snímku obrazovky.\r\n   Jak testovat:\r\n   - Otevři aktivitu a podívej se do pravého dolního rohu."
 }
