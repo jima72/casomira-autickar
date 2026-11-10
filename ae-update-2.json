@@ -1,6 +1,6 @@
 {
-    "version":  "0.8.9",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.8.9.zip",
-    "sha256":  "301a4fde0c5050d263bff0d086dccb879b75ed6912824926410ec116916fac0a",
-    "notes":  "1. Kolečko volné soupravy na prvním voze\r\n   - Kolečko uprostřed vozu je vždy na prvním voze soupravy, i když je to vagon nebo když je lokomotiva uprostřed.\r\n   Jak testovat:\r\n   - Polož soupravu jen z vagonů: kolečko musí být na prvním voze.\r\n   - Při úpravě soupravy přidej vůz dopředu: kolečko se musí přesunout na nový první vůz."
+    "version":  "0.9.0",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.9.0.zip",
+    "sha256":  "f5d52c533f90d911ad59cbc24a3b2590afa64c998c8a254a4e0c1ad7fb5982bc",
+    "notes":  ""
 }
