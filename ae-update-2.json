@@ -1,6 +1,6 @@
 {
-    "version":  "0.10.2",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.2.zip",
-    "sha256":  "c0e17bb6319b190ae45a4878004b71a5af4ad8e3e12e5b5456bec5486bf8d6b0",
-    "notes":  "Zrušení konce trasy teď zachová otočky a průjezdy ve stanici: trasa pokračuje od původního koncového bodu dál po trati (po postavených výhybkách) až kam dojede. Místo, kde byl konec, zůstane naznačené průhledně, aby šel konec snadno umístit znovu."
+    "version":  "0.10.3",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.3.zip",
+    "sha256":  "c2cecf2dbc4734f2d60dc38f959f289e1681990e6faddae23c70f529a71e5bd4",
+    "notes":  "Po zrušení konce trasy zůstane původní trasa jen jako fialový podklad (čáry i body) a kreslí se pod editovanou trasou. Novou trasu nad ní teď kreslíme úplně normálně jako každou cestu – barvy po otočkách, pruhy odsazené od sebe. Fialový podklad zmizí po uložení cesty."
 }
