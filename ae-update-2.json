@@ -1,6 +1,6 @@
 {
-    "version":  "0.10.1",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.1.zip",
-    "sha256":  "f81d5d3de1a3235108043a7a78e157f72ef9c5a57fa097b0847c1f4c36d169fd",
-    "notes":  "Smazání konce cesty se zachováním obratů, mazání servisu v dopravě, varování o vozech zmizí po opravě, události seřazené podle názvu, čeština pro sledování hry."
+    "version":  "0.10.2",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.2.zip",
+    "sha256":  "c0e17bb6319b190ae45a4878004b71a5af4ad8e3e12e5b5456bec5486bf8d6b0",
+    "notes":  "Zrušení konce trasy teď zachová otočky a průjezdy ve stanici: trasa pokračuje od původního koncového bodu dál po trati (po postavených výhybkách) až kam dojede. Místo, kde byl konec, zůstane naznačené průhledně, aby šel konec snadno umístit znovu."
 }
