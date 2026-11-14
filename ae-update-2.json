@@ -1,6 +1,6 @@
 {
-    "version":  "0.10.4",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.4.zip",
-    "sha256":  "da2077dce74bea4fb6e02c8460c8cacb0098058876ad7fb8625fb11596a76a68",
-    "notes":  "Zrušení/úprava konce trasy teď původní trasu (se všemi otočkami a vyčkávacími body) zapamatuje a drží ji fialově jako podklad, dokud cestu neuložíš; staví se nad ní normálně jako každá cesta. Po zrušení konce se navíc na nalezeném konci trati nakreslí modré kolečko, se kterým lze posunout tam, kam má konec přijít."
+    "version":  "0.10.5",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.5.zip",
+    "sha256":  "7438fa8f4b3af40a322d53883defe01e2b146ed45dc148fde1fe7cc95dc1e044",
+    "notes":  "Zobrazený název aktivity se při psaní zapisuje i do Charakteristiky a Popisu aktivity, dokud jsou prázdné nebo stejné jako název; jakmile do nich napíšeš vlastní text, zůstane a dál se nemění."
 }
