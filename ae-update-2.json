@@ -1,6 +1,6 @@
 {
-    "version":  "0.10.6",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.6.zip",
-    "sha256":  "b48185eae574a063e6735db050c7b3e8b83d5db060355df84273a88163912d64",
-    "notes":  "1. Posun celé aktivity v čase\r\n   - Když změníš Počáteční čas, editor se zeptá, jestli posunout o stejný rozdíl všechny vlaky: zastávky vlaku hráče, AI služby v aktivitě i časy v souboru provozu (.trf). Pak hned uloží .trf i aktivitu. Časy přes půlnoc se přetočí, takže jde aktivitu přesunout třeba ze dne do noci.\r\n2. Názvy událostí na mapě\r\n   - Jsou vidět vždy, při každém přiblížení, a začínají číslem události (jako ve sloupci Bod).\r\n3. Barvy průjezdů při stavění cesty\r\n   - Červená se už pro průjezdy nepoužívá (patří chybné trase).\r\n   - Průjezdy po stejné koleji mají vždy jinou barvu i vlastní pruh vedle koleje, i po mnoha úvratích, takže na každý jde postavit čekací bod.\r\n4. Volné soupravy (LC)\r\n   - U soupravy její název a u každého vozu název jeho souboru. Zapínají se čipy Popisky LC a Popisky vozů LC (výchozí zapnuto).\r\n5. Jízdní řády\r\n   - Jízdní řád hráče i jízdní řád služby v okně provozu jsou nejdřív přilepené k oknu a jezdí s ním. Jakmile s nimi pohneš nebo změníš velikost, zůstanou jako samostatné okno. Velikost jde měnit.\r\n6. Nový servis v provozu\r\n   - Vložený servis má čas 0:00:00: je v seznamu první a hra ho nespustí, dokud mu čas nenastavíš dvojklikem.\r\n7. Editor nádražních tabulí\r\n   - Z Editoru aktivit je pryč; bude samostatný program."
+    "version":  "0.10.7",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.7.zip",
+    "sha256":  "abc8275e407bcc32bd26f61526819991d0dfce5d959b9be83bbbcb261d446335",
+    "notes":  "Zrušen posun celé aktivity v čase: po změně Počátečního času se editor už neptá na posun všech vlaků, změní se jen čas začátku."
 }
