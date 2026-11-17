@@ -1,6 +1,6 @@
 {
-    "version":  "0.10.8",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.8.zip",
-    "sha256":  "75f4d83bfbb92aed537e9193dcb3eb9e75d81ce17c65263500d00918e96a3fbf",
-    "notes":  "Consist Editor - 3D modely vozidel kreslené jako ve hře\r\n1. Náklad na vozech (FreightAnim a ORTSFreightAnims) je vidět tak, jak ho hra ukazuje na začátku - i postavičky a další tvary připojené k lokomotivám.\r\n2. Animované díly (pantografy, dveře, stěrače, zrcátka) stojí ve výchozí poloze jako po spuštění hry."
+    "version":  "0.10.9",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.9.zip",
+    "sha256":  "485d0b43e58160215e3211a9254fdd30c6505da887e541c8ad51fbf63352df6d",
+    "notes":  "Zvuk v události (Přehrát zvuk): soubor se vybírá tlačítkem Procházet ve složce trati ACTIVITY_SOUND místo rozbalovacího seznamu."
 }
