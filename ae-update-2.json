@@ -1,6 +1,6 @@
 {
-    "version":  "0.10.9",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.9.zip",
-    "sha256":  "485d0b43e58160215e3211a9254fdd30c6505da887e541c8ad51fbf63352df6d",
-    "notes":  "Zvuk v události (Přehrát zvuk): soubor se vybírá tlačítkem Procházet ve složce trati ACTIVITY_SOUND místo rozbalovacího seznamu."
+    "version":  "0.10.10",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.10.zip",
+    "sha256":  "33f5c23400726fe018f6f899bb0f35471ed4ec9eca8bc85fee009dd1cff6e709",
+    "notes":  "1. Nový výsledek události: Zákaz nástupu cestujících pro celý vlak (od Icika)\r\n   - Výsledek TrainPassengersBan zakáže nástup cestujících do celého vlaku hráče (i do vlaku, který objíždí; všichni z něj vystoupí). Přepíná se: když je zákaz vypnutý, zapne ho, a když je zapnutý, vypne ho (objíždění vlaku).\r\n   Jak testovat:\r\n   - Přidej události výsledek Zákaz nástupu cestujících pro celý vlak: zapnout nebo vypnout a ulož aktivitu. Ve hře po události do vlaku nikdo nenastoupí a cestující vystoupí.\r\n   - Druhá událost se stejným výsledkem zákaz zase vypne: cestující nastupují.\r\n2. Nástupiště na cestě v okně Servis\r\n   - Stanice, ve které vlak startuje přímo na nástupišti, už ze seznamu nezmizí, když na nástupišti leží bod cesty (houkání, čekací bod).\r\n   Jak testovat:\r\n   - Na cestu, která začíná na nástupišti, polož bod houkání ještě na nástupiště. Otevři servis s touto cestou: výchozí stanice je v seznamu nástupišť."
 }
