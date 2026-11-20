@@ -1,6 +1,6 @@
 {
-    "version":  "0.10.10",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.10.zip",
-    "sha256":  "33f5c23400726fe018f6f899bb0f35471ed4ec9eca8bc85fee009dd1cff6e709",
-    "notes":  "1. Nový výsledek události: Zákaz nástupu cestujících pro celý vlak (od Icika)\r\n   - Výsledek TrainPassengersBan zakáže nástup cestujících do celého vlaku hráče (i do vlaku, který objíždí; všichni z něj vystoupí). Přepíná se: když je zákaz vypnutý, zapne ho, a když je zapnutý, vypne ho (objíždění vlaku).\r\n   Jak testovat:\r\n   - Přidej události výsledek Zákaz nástupu cestujících pro celý vlak: zapnout nebo vypnout a ulož aktivitu. Ve hře po události do vlaku nikdo nenastoupí a cestující vystoupí.\r\n   - Druhá událost se stejným výsledkem zákaz zase vypne: cestující nastupují.\r\n2. Nástupiště na cestě v okně Servis\r\n   - Stanice, ve které vlak startuje přímo na nástupišti, už ze seznamu nezmizí, když na nástupišti leží bod cesty (houkání, čekací bod).\r\n   Jak testovat:\r\n   - Na cestu, která začíná na nástupišti, polož bod houkání ještě na nástupiště. Otevři servis s touto cestou: výchozí stanice je v seznamu nástupišť."
+    "version":  "0.10.11",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.11.zip",
+    "sha256":  "fdd2375115b655a87b7088027a76d1aaa22b010000afc064380ae20b3809ca28",
+    "notes":  "Nový výsledek události Výpravčí: zapnout (vypravuje všechny vlaky bez ohledu na volbu v menu) nebo vypnout (nevypravuje žádný vlak); ukládá se jako Dispatcher ( true ) / ( false )."
 }
