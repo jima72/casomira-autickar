@@ -1,6 +1,6 @@
 {
-    "version":  "0.10.11",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.11.zip",
-    "sha256":  "fdd2375115b655a87b7088027a76d1aaa22b010000afc064380ae20b3809ca28",
-    "notes":  "Nový výsledek události Výpravčí: zapnout (vypravuje všechny vlaky bez ohledu na volbu v menu) nebo vypnout (nevypravuje žádný vlak); ukládá se jako Dispatcher ( true ) / ( false )."
+    "version":  "0.10.12",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.12.zip",
+    "sha256":  "83d46c7987973f852befc37cf0568b71881a981067c50d51f9ba76eebd24a477",
+    "notes":  "Oprava pádu mapy u tratí, jejichž sigcfg.dat odkazuje na neexistující stav návěstidla (takové návěstidlo se kreslí jako neznámé). Po aktualizaci se už samo neotevírá okno se změnami; historii zobrazíš tlačítkem v úvodním okně."
 }
