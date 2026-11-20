@@ -1,6 +1,6 @@
 {
-    "version":  "0.10.13",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.13.zip",
-    "sha256":  "0558809f8a0c82b3edf889b6d43527c6c4164cf15ef6e339ef7e1d47e11d2054",
-    "notes":  "Nová aktivita má svůj název rovnou vyplněný i v Charakteristice a v popisu (briefingu); obojí pak můžeš přepsat."
+    "version":  "0.10.14",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.14.zip",
+    "sha256":  "d1dc3566fadef77be708cc62e87827641b227d15bbf528d8300bab1b959c87e0",
+    "notes":  "Výsledek události Výpravčí je teď jen jeden, stejně jako Jednoduchá zkouška brzdy: ukládá se jako Dispatcher ( true ). Body cesty jdou k výhybce blíž, kam až je hra ještě najde na správné koleji (nejméně 0,5 m, dřív vždy 2 m)."
 }
