@@ -1,6 +1,6 @@
 {
-    "version":  "0.10.16",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.16.zip",
-    "sha256":  "86292395504733ee2a957dce55c358e92e50a13a9d662b94335a4706eff437c4",
-    "notes":  "Cesty s chybnými body (mimo kolej, typicky po změně tratě): kontrola aktivity hlásí jako chybu každou cestu, kterou hra nemůže použít, i u AI vlaků; dvojklik na takový problém otevře cestu v editoru cesty a mapa ukáže všechny její chybné body. Chybný bod jde přetáhnout na kolej, chybný bod výhybky se při tažení zamkne na výhybku; pravým tlačítkem bod smažeš. Chybné body mají červený kroužek ve všech zoomech, červená spojnice má šipky ve směru jízdy a pod mapou je počet vadných bodů. Dokud se aktivita nenačte a nezkontroluje, je mapa zašedlá a seznam problémů ukazuje „Hledám potenciální problémy…“. Oprava pádu po vložení bodu do cesty s chybnými body a výrazné zrychlení mapy u aktivit s mnoha cestami."
+    "version":  "0.10.17",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.17.zip",
+    "sha256":  "125bbcb92b990570e76d593be6b7296270ae5bc0da843a6960be3b686f3ce1f1",
+    "notes":  "Kontrola aktivity hlásí jako chybu všechno, co hra pokládá na kolej a leží mimo ni: začátek a konec omezení rychlosti (hra by aktivitu nespustila) a odstavené soupravy (hra by je vynechala). Omezení rychlosti má na obou koncích kolečko „PJ rychlost“; přetažením na kolej opravíš omezení, které po změně tratě leží mimo kolej. Odstavenou soupravu a omezení mimo kolej jde smazat pravým tlačítkem."
 }
