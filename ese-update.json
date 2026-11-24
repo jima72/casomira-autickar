@@ -1,0 +1,6 @@
+{
+    "version":  "0.1.0",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ElectricalSupplyEditor-0.1.0.zip",
+    "sha256":  "0113e272e40bfb498e5ece32614bc1da12676b3eac5bcfa5e3889a65bc8cc89a",
+    "notes":  "1. První vydání editoru elektrického napájení\r\n   - Mapa trati s napětím kolejí, napájecími stanicemi a markery změny napětí; vše se ukládá do VoltageChangeMarkers.json ve složce trati, soubory hry (.w, XML) zůstávají beze změny.\r\n   - Problémy trati v panelu Problémy, podmíněné markery a jejich cedule.\r\n   - Okno Návěsti stahovaček: hledání ve scenérii, seznam modelů s obrázky všech stran, vlastní model (.s).\r\n   - Téma vzhledu ve všech oknech, aktualizace editoru jako u editoru aktivit."
+}
