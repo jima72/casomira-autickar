@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.1",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ElectricalSupplyEditor-0.1.1.zip",
-    "sha256":  "13f646b4f39ca841eba6c6a0bf6fb3174881c119c1b941f3e0284f21c7c34408",
-    "notes":  "1. Převod napájení z XML do JSON\r\n   - Markery se nejdřív položí na nejbližší kolej.\r\n   - Nové markery jen tam, kde je potřeba, i na konci dosahu napájecí stanice.\r\n   - Po převodu se samy odstraní přebytečné markery.\r\n   - Výsledek odpovídá tomu, co z XML udělá hra.\r\n2. Odebrání napětí z úseku tratě (Odebrat {V}) bez přidávání nových markerů.\r\n3. Výběr cedule sběrače pro podmíněný marker kliknutím na mapě.\r\n4. Kontextové menu podle toho, na co se klikne.\r\n5. Uložit nejde, dokud trať není převedená do JSON.\r\n6. Nový ukazatel průběhu, i při načítání trati.\r\n7. Když se trať nenačte: tlačítko „Smazat json a zkusit znova“.\r\n8. Nová ikona editoru."
+    "version":  "0.1.2",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ElectricalSupplyEditor-0.1.2.zip",
+    "sha256":  "d31f10fde7814c89e141eaa9eda1a7ae2916d17e666797b11960b42542622c59",
+    "notes":  "1. Tlačítko „Smazat json a zkusit znova“ je pořád v horní liště: smaže JSON otevřené trati a načte ji znova z XML.\r\n2. Po uložení se vlevo nahoře ukáže, že se už pracuje s JSON."
 }
