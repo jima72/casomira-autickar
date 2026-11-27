@@ -1,6 +1,6 @@
 {
-    "version":  "0.10.25",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.25.zip",
-    "sha256":  "063f10ecc3c0be5ec7c6aeb020d91c27e5b0008f4734d762aa575fe5d4957362",
-    "notes":  "1. AI vlak u časové události a úlohy\r\n   - Časová událost i úloha mají v okně řádek Spouští ji jako událost na místě: vlak hráče nebo AI vlak aktivity (seřazené podle času, s vteřinami). V aktivitě se zapisuje jako ORTSTriggeringTrain; hra ho u obou druhů událostí čte.\r\n   - U události s AI vlakem se nabízejí jen výsledky zvolené v Možnostech pro AI vlaky.\r\n   Jak testovat:\r\n   - Otevři časovou událost, ve Spouští ji vyber AI vlak, OK a ulož. V souboru .act je u události ORTSTriggeringTrain ( \"název\" čas ). Po novém otevření je vlak ve Spouští ji vybraný.\r\n   - Totéž u úlohy (např. Vyzvednout vozy). Výběr Vlak hráče řádek ORTSTriggeringTrain z události zase odebere."
+    "version":  "0.10.26",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ActivityEditor-0.10.26.zip",
+    "sha256":  "78bd88c1964c22a40dc2de2d70feeea6e09f8ab16623b8315aa7076915e04366",
+    "notes":  "1. Nový ukazatel průběhu při načítání: plynulý, v barvách zvoleného vzhledu.\r\n2. Slovenský překlad všech nových textů editoru."
 }
