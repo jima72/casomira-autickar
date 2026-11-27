@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.5",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ElectricalSupplyEditor-0.1.5.zip",
-    "sha256":  "bcd28757a69ee5547a4d0b58c412f760f0ce354a7ed3986cfeaf1298e02ab764",
-    "notes":  "1. Podmíněná cedule najde svůj podmíněný marker i přes výhybku (nejbližší po kolejích do 600 m), když na její koleji žádný není; ke koleji patří až do 10 m od její osy.\r\n2. Kontextové menu podmíněného markeru: Připojit k... a pak klik na ceduli (.s model) na mapě.\r\n3. Aktualizace nabízí jen novější verzi, nikdy starší."
+    "version":  "0.1.6",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ElectricalSupplyEditor-0.1.6.zip",
+    "sha256":  "b29ff784e5ac13efe81a33323de0ac0f982b5d877d712cd92a008388b854866b",
+    "notes":  "1. Tabulka Problémy se řadí kliknutím na záhlaví sloupce (znovu: obráceně), čísla se řadí jako čísla."
 }
