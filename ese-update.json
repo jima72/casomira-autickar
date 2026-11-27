@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.7",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ElectricalSupplyEditor-0.1.7.zip",
-    "sha256":  "b951b629cff75ea84dfe3628fccfe83e77709f42eccaea80c38496ce09117179",
-    "notes":  "1. Slovenský překlad celého editoru."
+    "version":  "0.1.8",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ElectricalSupplyEditor-0.1.8.zip",
+    "sha256":  "d3807e0310fe24eec7b5a0777ca7b25630887a2ae5a84c2f66ecb595444e9b6d",
+    "notes":  "1. Ctrl+F (Zobrazit - Najít na mapě...): stejné hledání jako v editoru aktivit - místa trati, napájecí stanice a markery (stačí napsat číslo markeru); mapa skočí na vybrané místo."
 }
