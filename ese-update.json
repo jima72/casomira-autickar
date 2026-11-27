@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.2",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ElectricalSupplyEditor-0.1.2.zip",
-    "sha256":  "d31f10fde7814c89e141eaa9eda1a7ae2916d17e666797b11960b42542622c59",
-    "notes":  "1. Tlačítko „Smazat json a zkusit znova“ je pořád v horní liště: smaže JSON otevřené trati a načte ji znova z XML.\r\n2. Po uložení se vlevo nahoře ukáže, že se už pracuje s JSON."
+    "version":  "0.1.3",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ElectricalSupplyEditor-0.1.3.zip",
+    "sha256":  "260cab2159cbaa6a6312c0781d5e59b22f088db8f79d1a2bc7f8d8afaa7943f4",
+    "notes":  "1. Nový vzhled jako v editoru aktivit: horní lišta s chipy ve dvou řádcích a vpravo jen Uložit.\r\n2. Nový panel Nástroje vlevo: Převést do JSON, Odstranit nadbytečné markery, Návěsti stahovaček, Smazat json a zkusit znova."
 }
