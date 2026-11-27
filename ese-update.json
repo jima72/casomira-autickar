@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.4",
-    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ElectricalSupplyEditor-0.1.4.zip",
-    "sha256":  "35d6cea2c04a36c3989aac6c53ed46ab5a1725e1d39469c8a01834f0e2513863",
-    "notes":  "1. Odebrání napětí z úseku (Odebrat {V}) jde i tam, kde samotné smazání markerů nestačí: na místa některých smazaných markerů se dají 0 V markery, jen tolik, kolik je nutné.\r\n2. Hromadné mazání: Ctrl + tažení levým tlačítkem nakreslí obdélník, po puštění se smažou všechny markery v něm (jeden krok pro Ctrl+Z).\r\n3. Okno Návěsti stahovaček: u každého modelu zaškrtávátko Podmíněná - všechny cedule modelu se stanou podmíněnými (nebo zase stahovacími)."
+    "version":  "0.1.5",
+    "url":  "https://raw.githubusercontent.com/jima72/casomira-autickar/main/ElectricalSupplyEditor-0.1.5.zip",
+    "sha256":  "bcd28757a69ee5547a4d0b58c412f760f0ce354a7ed3986cfeaf1298e02ab764",
+    "notes":  "1. Podmíněná cedule najde svůj podmíněný marker i přes výhybku (nejbližší po kolejích do 600 m), když na její koleji žádný není; ke koleji patří až do 10 m od její osy.\r\n2. Kontextové menu podmíněného markeru: Připojit k... a pak klik na ceduli (.s model) na mapě.\r\n3. Aktualizace nabízí jen novější verzi, nikdy starší."
 }
